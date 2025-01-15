@@ -1,7 +1,41 @@
-# Project-Unicorn---Oct-24
-Masterschool - Mid-Term Project
+# Data Analytics Project'24: E-commerce Sales Analysis for Unicorn
 
-# Sales and Profitability Optimization: A Strategic Analysis of 2018 Performance
+# Project Overview
+This project served as a foundational step in applying key data analytics techniques to real-world business scenarios. The project aimed to integrate concepts from SQL, Spreadsheets, and Tableau to explore, clean, analyze, and visualize e-commerce sales data for Unicorn, a growing online marketplace. The goal was to uncover actionable insights that would guide business decisions and help identify areas for growth.
+
+# Project Background
+Unicorn is a family-owned e-commerce platform that has been steadily gaining market share over the past two decades. The platform offers a variety of products, ranging from books and clothes to household items. The company's stakeholders are highly invested in its growth and have a small analytics team. They are seeking to expand their data analytics capabilities and have provided a sample dataset spanning the years 2015-2018 to help guide their business strategies.
+
+# Key Project Tasks
+The project was divided into four main parts:
+
+## Data Exploration with SQL:
+Conducted exploratory data analysis (EDA) using SQL to understand the structure of the sales data, identify patterns, and retrieve key metrics.
+
+## Data Cleaning Using Spreadsheets:
+Cleaned and prepared the data by addressing inconsistencies, handling missing values, and ensuring the dataset was ready for in-depth analysis.
+
+## Insight Generation Using Tableau:
+Visualized the cleaned data using Tableau to identify trends, outliers, and key performance indicators that could inform business decisions.
+
+## Executive Summary and Presentation:
+Compiled findings into an executive summary and prepared a presentation to communicate insights to stakeholders in a clear and actionable manner.
+
+# Project Objectives
+The main objectives of this project were:
+- To apply analytical tools to a real-world e-commerce dataset.
+- To derive meaningful insights from the data to help Unicorn make data-driven decisions.
+- To identify potential weak areas and business opportunities for Unicorn to improve its performance.
+
+This project served as an opportunity to showcase skills in SQL, data cleaning, and visualization, while also developing a deeper understanding of how data analytics can drive business growth in the competitive e-commerce sector.
+
+
+
+
+
+
+
+# Final Report: Sales and Profitability Optimization: A Strategic Analysis of 2018 Performance
 
 ## Introduction and Objective
 In today’s competitive landscape, maximizing profitability requires a strategic approach to sales optimization. This report examines key drivers of financial performance for 2018 across product categories, regions, and customer segments, with a focus on understanding the discrepancies between sales volume and profitability. Our goal is to identify actionable insights that will enable sustainable growth while preserving profit margins.
