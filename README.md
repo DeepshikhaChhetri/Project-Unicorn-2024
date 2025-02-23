@@ -9,11 +9,10 @@ https://github.com/DeepshikhaChhetri/Project-Unicorn-2024/blob/main/1.%20Spreads
 https://github.com/DeepshikhaChhetri/Project-Unicorn-2024/blob/main/2.%20Exploration%20with%20SQL.pdf
 
 ### Tableau Dashboard Link: 
-https://docs.google.com/spreadsheets/d/149AJg7b39HYmrvV6IP01fIWzoMOEa_8NYLw5AYlC3pk/edit?usp=sharing
+(https://public.tableau.com/views/ProjectOct24-Unicorn/SalesDasboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Presentation - Slides:
 https://github.com/DeepshikhaChhetri/Project-Unicorn-2024/blob/main/3.%20PPT%20-%20Project%20Unicorn.pdf
 
 ### Final Report: 
 https://github.com/DeepshikhaChhetri/Project-Unicorn-2024/blob/main/4.%20Final%20Report.pdf
-
