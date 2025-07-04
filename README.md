@@ -6,7 +6,7 @@ This report analyzes 2018 sales and profitability for a company, focusing on pro
 https://github.com/DeepshikhaChhetri/Project-Unicorn-2024/blob/main/1.%20Spreadsheet_%20Unicorn%20Dataset.xlsx
 
 ### Exploratory Data Analysis with SQL: 
-https://github.com/DeepshikhaChhetri/Project-Unicorn-2024/blob/main/2.%20Exploration%20with%20SQL.pdf
+https://github.com/DeepshikhaChhetri/Project-Unicorn-2024/blob/058ab66eb84d5eccf510fe587a9ad83fb882bdcb/2.%20Exploration%20with%20SQL.pdf
 
 ### Tableau Dashboard Link: 
 (https://public.tableau.com/views/ProjectOct24-Unicorn/SalesDasboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
